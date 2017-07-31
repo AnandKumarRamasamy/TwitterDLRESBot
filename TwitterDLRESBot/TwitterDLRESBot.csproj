@@ -185,6 +185,7 @@
     <Compile Include="Models\Request.cs" />
     <Compile Include="Models\Response.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\APIIntegration.cs" />
     <Compile Include="Services\DirectlineAPIWrapper.cs" />
   </ItemGroup>
   <ItemGroup>
